@@ -24,3 +24,5 @@ I'm interested in Web Development and I'm learning a lot about front-end stacks
   <a href="https://www.linkedin.com/in/josu%C3%A9-medino-da-silva-149077227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![snake gif](https://github.com/JosueMedino01/JosueMedino01/blob/output/github-contribution-grid-snake.svg)
