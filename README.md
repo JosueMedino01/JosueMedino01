@@ -25,4 +25,4 @@ I'm interested in Web Development and I'm learning a lot about front-end stacks
   
 </div>
 
-![snake gif](https://github.com/josuemedino01/josuemedino01/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JosueMedino01/JosueMedino01/blob/output/github-contribution-grid-snake.svg)
