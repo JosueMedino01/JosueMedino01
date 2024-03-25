@@ -4,7 +4,6 @@
 <h2>About Me</h2>
 <p>
 I'm studying Computer Science at the Federal University of Alagoas.
-I'm interested in Web Development and I'm learning a lot about front-end stacks
 </p>
 
 <h2>Front-end</h2>
