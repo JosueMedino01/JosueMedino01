@@ -20,5 +20,3 @@ I'm studying Computer Science at the Federal University of Alagoas.
   <a href = "mailto:josuemedino5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josuemedino01&bg_color=000000&color=dc8add&line=c061cb&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
